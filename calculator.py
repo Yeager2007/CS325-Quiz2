@@ -14,7 +14,6 @@ def divide(a, b):
 
 def calculate():
     print("=== Team Calculator: Version A ===")
-    print("Welcome to the Pair Calculator!")
     print("Addition: 5 + 3 =", add(5, 3))
     print("Subtraction: 5 - 3 =", subtract(5, 3))
     print("Multiplication: 5 * 3 =", multiply(5, 3))
